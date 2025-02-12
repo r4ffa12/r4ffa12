@@ -16,7 +16,7 @@ Estou em busca de oportunidades para aplicar e expandir meus conhecimentos enqua
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GO](https://img.shields.io/badge/Go-35434F?style=for-the-badge&logo=go&logoColor=white)
+![GO](https://img.shields.io/badge/Go-0052CC?style=for-the-badge&logo=go&logoColor=white)
 ![Visual Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
