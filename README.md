@@ -1,6 +1,6 @@
 # R4ffa12
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end e cibersegurança. Habilidades em JavaScript, Java, Python e SQL. Comprometido em aprender e crescer constantemente na área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end e cibersegurança. Habilidades em JavaScript, Java, GO, Python e SQL. Comprometido em aprender e crescer constantemente na área de tecnologia.
 
 Estou em busca de oportunidades para aplicar e expandir meus conhecimentos enquanto continuo minha jornada acadêmica.
 
